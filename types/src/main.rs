@@ -3,7 +3,7 @@ fn main() {
 
     println!("{}", message);
 
-    let answer = 42;
+    let answer: i8 = 255;
 
     println!("The answer is {}", answer);
 }
